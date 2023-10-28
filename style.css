@@ -142,7 +142,7 @@ form .remember-forgot a {
 }
 
 form .btn {
-  height: auto;
+  height: 15%;
   width: 80%;
   border: none;
   border: 1px solid rgb(72, 234, 60);
