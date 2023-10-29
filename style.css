@@ -117,6 +117,8 @@ form .username-password input {
   border: 1px solid rgb(255, 255, 255);
   border-radius: 2em;
   padding: 0 1vw;
+  color: white;
+  font-size: 1vw;
 }
 
 form .username-password input::placeholder {
@@ -161,6 +163,7 @@ form .btn {
   background-color: rgb(254, 254, 254);
   margin-bottom: 5vh;
   padding: 1vh 0;
+  color: black;
 }
 
 form .btn:hover {
