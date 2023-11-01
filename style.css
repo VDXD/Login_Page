@@ -200,6 +200,8 @@ form .btn:hover {
 
   form .username-password input {
     padding: 0 2vw;
+    font-size: 3vw;
+    font-weight: 500;
   }
 
   form .username-password input::placeholder {
